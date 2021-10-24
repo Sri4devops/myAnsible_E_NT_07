@@ -1,0 +1,13 @@
+---
+- key: 
+  - name: sunil
+    phno: 888888888
+    addr: hyd
+
+  - name: Raju
+    phno: 777777777
+    addr: hyd
+
+  - name: Geetha
+    phno: 6666666666
+    addr: hyd
