@@ -2,12 +2,12 @@
 - key: 
   - name: sunil
     phno: 888888888
-    addr: hyd
+    address: hyd
 
   - name: Raju
     phno: 777777777
-    addr: hyd
+    address: hyd
 
   - name: Geetha
     phno: 6666666666
-    addr: hyd
+    address: hyd
